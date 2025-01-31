@@ -23,4 +23,4 @@ Lead Tracker is a simple Chrome extension that helps you save and manage links e
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/lead-tracker.git
+   git clone https://github.com/Mustafahamidi/lead-tracker.git
